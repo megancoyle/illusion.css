@@ -1,2 +1,2 @@
 # Wizard.css
-Adds CSS animation magic to your SVGs
+Adds CSS animation magic to your UI
